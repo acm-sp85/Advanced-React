@@ -1,7 +1,8 @@
+import Page from '../components/Page';
 export default function HomePage() {
   return (
     <div>
-      <p>Hola</p>
+      <p>Hola Holita</p>
     </div>
   );
 }
